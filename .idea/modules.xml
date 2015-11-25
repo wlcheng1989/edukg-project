@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/crawlerSystem/crawlerSystem.iml" filepath="$PROJECT_DIR$/crawlerSystem/crawlerSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-server/edu-server.iml" filepath="$PROJECT_DIR$/edu-server/edu-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edukg-project.iml" filepath="$PROJECT_DIR$/edukg-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extractorSystem/extractorSystem.iml" filepath="$PROJECT_DIR$/extractorSystem/extractorSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/keysentence/keysentence.iml" filepath="$PROJECT_DIR$/keysentence/keysentence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentimentAnalysis/sentimentAnalysis.iml" filepath="$PROJECT_DIR$/sentimentAnalysis/sentimentAnalysis.iml" />
+    </modules>
+  </component>
+</project>
